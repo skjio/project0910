@@ -11,4 +11,4 @@
 ### revert 把commit_3的更動復原 建立commit_4取代3
 ### reset commit3刪除 回到工作目錄 統一
 
-### git tag -a v1.0 -m "發布版本1.0"
+### git tag -a v1.0 -m "發布版本1.0" 把現在的專案打包
